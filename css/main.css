@@ -1,0 +1,58 @@
+body{
+    background-color: #3A5F71;
+    color: white;
+}
+a.navbar-brand,a.nav-link{
+    color: white !important;
+}
+.content{
+    margin-top:60px
+}
+
+.img-content{
+    max-height: 500px;
+    overflow-y: hidden;
+}
+
+header {
+    padding: 100px 0 0;
+    text-align: center;
+    color: #FFF;
+}
+
+footer{
+    color:darkgrey;
+}
+
+.mt-30{
+    margin-top: 2em;
+}
+
+.myButton {
+	background-color:transparent;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid white;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+a.myButton:hover {
+	color:white;
+    text-decoration: none;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer-sub a{
+    color:white;
+}
